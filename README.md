@@ -30,8 +30,17 @@ This application is covered under the Apache commons public software license
   
   ## Usage
   
+  To check it out locally: 
+  
   cd project directory, run the install command, then run command: npm start
+  
   This will start the server which can be reached on your browser at http://localhost:3001/
+  
+  Or if you want to see it deployed in action go here:
+  
+  https://text-aint-cheap.herokuapp.com/
+  
+  
 
   
   ## Contributing
